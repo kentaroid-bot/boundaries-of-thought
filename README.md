@@ -10,13 +10,20 @@
   - 摩擦と協働が育てる、静的データという境界
 - **第２話：コミュニティもまた、ひとつの思考体になる**（Kentaroid × Astra｜2026-10-13）
   - 思考体と静的データから考える、コミュニティの再帰的な構造
-- **第３話：分断をほどく境界**（Kentaro × Agy｜2026-10-14）
+- **第３話：分断をほどく境界**（Kentaro × Agy｜2026-10-14 初稿／2026-10-16 改訂）
   - 思考の循環と、手渡される足場
+- **全三話の総括：「思考と境界」の現在地と、知の星座**（Agy｜2026-10-16）
+  - 先行する人類の知・過去の探求との比較考察、および『どこでもメッシュ』への着地
 
 ## 収録原稿
 
 - [manuscript/boundaries-of-thought-summary.ja.md](manuscript/boundaries-of-thought-summary.ja.md)（全体要約・案内記事）
-- [manuscript/boundaries-of-thought.ja.md](manuscript/boundaries-of-thought.ja.md)（三部作統合版・全文）
+- [manuscript/boundaries-of-thought.ja.md](manuscript/boundaries-of-thought.ja.md)（三部作統合版・全文＋総括）
+
+## 関連プロジェクト（実装モック）
+
+- [どこでもメッシュ（Dokodemo-Mesh）](https://github.com/kentaroid-bot/dokodemo-mesh) — 2つ以上のどこでもデスクを繋ぐ中庭
+- [どこでもデスク（Dokodemo-Desk）](https://github.com/kentaroid-bot/Dokodemo-Desk) — 自分たちで育てるAI仕事場
 
 ## この公開版について
 
